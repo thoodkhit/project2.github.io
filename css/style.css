@@ -1,0 +1,35 @@
+*{
+    font-family: montserrat;
+}
+body{
+    background: #f1fbff;
+}
+.navbar-brand{
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.navbar-brand span{
+    color: #ffc107;
+    margin-right: 5px;
+}
+.nav-item .nav-link{
+text-transform: uppercase;
+font-size: 14px;
+}
+.carousel-caption{
+    margin-bottom: 200px;
+}
+.carousel-caption h5{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.carousel-caption p{
+    width: 60%;
+    margin: auto;
+    line-height: 35px;
+    margin-bottom:10px;
+}
+.sectionpadding{
+    margin-top: 150px auto;
+    padding-top: 100px;
+}
